@@ -13,4 +13,4 @@ Write-Host "-------------------------"
 Write-Host "Servers with SMB2 enabled"
 Write-Host "-------------------------"
 Write-Host ($SMB2 -join ',')
-Write-Host "-------------------------"
+Write-Host "--------------------------"
